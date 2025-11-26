@@ -1,0 +1,11 @@
+agent_id,task_type,file_type,attempts,success_rate,time_taken,failed
+A001,Analysis,Excel,3,0.55,120,1
+A002,Extraction,PDF,1,0.8,90,0
+A003,Classification,Word,4,0.4,200,1
+A004,Analysis,Excel,2,0.7,150,0
+A005,Validation,CSV,5,0.62,180,1
+A006,Extraction,PDF,1,0.85,95,0
+A007,Classification,Word,3,0.35,210,1
+A008,Analysis,CSV,4,0.78,160,0
+A009,Validation,Excel,2,0.5,140,1
+A010,Extraction,PDF,3,0.82,100,0
